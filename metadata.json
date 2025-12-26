@@ -1,0 +1,5 @@
+{
+  "name": "ScrumMate AI",
+  "description": "A real-time delivery risk analysis tool for project managers. It monitors sprint data, PR velocity, code churn, and bug reopen rates to generate AI-powered health reports and predict risk zones.",
+  "requestFramePermissions": []
+}
